@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>example on Scaratek&#39;s Website</title>
+    <link>https://entrpix.me/tags/example/</link>
+    <description>Recent content in example on Scaratek&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Entrpix - GPLv3</copyright>
+    <lastBuildDate>Fri, 10 May 2024 10:29:30 +0000</lastBuildDate><atom:link href="https://entrpix.me/tags/example/index.xml" rel="self" type="application/rss+xml" /><icon>https://entrpix.me/logo.png</icon>
+    
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://entrpix.me/posts/example/</link>
+      <pubDate>Fri, 10 May 2024 10:29:30 +0000</pubDate>
+      
+      <guid>https://entrpix.me/posts/example/</guid>
+      <description><![CDATA[<h1 id="example">Example</h1>
+<p>Example Blog Post</p>
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<p><em>Italic</em>
+<strong>Bold</strong></p>
+<p><a href="https://entrpix.me">Link</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#39;Syntax Highlighting&#39;</span>);
+</span></span></code></pre></div>]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

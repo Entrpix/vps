@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Categories on Scaratek&#39;s Website</title>
+    <link>https://entrpix.me/categories/</link>
+    <description>Recent content in Categories on Scaratek&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Entrpix - GPLv3</copyright><atom:link href="https://entrpix.me/categories/index.xml" rel="self" type="application/rss+xml" /><icon>https://entrpix.me/logo.png</icon>
+    
+  </channel>
+</rss>

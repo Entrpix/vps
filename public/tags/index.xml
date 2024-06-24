@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on Scaratek&#39;s Website</title>
+    <link>https://entrpix.me/tags/</link>
+    <description>Recent content in Tags on Scaratek&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Entrpix - GPLv3</copyright>
+    <lastBuildDate>Fri, 10 May 2024 10:29:30 +0000</lastBuildDate><atom:link href="https://entrpix.me/tags/index.xml" rel="self" type="application/rss+xml" /><icon>https://entrpix.me/logo.png</icon>
+    
+    
+    <item>
+      <title>example</title>
+      <link>https://entrpix.me/tags/example/</link>
+      <pubDate>Fri, 10 May 2024 10:29:30 +0000</pubDate>
+      
+      <guid>https://entrpix.me/tags/example/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>web-development</title>
+      <link>https://entrpix.me/tags/web-development/</link>
+      <pubDate>Fri, 10 May 2024 10:29:30 +0000</pubDate>
+      
+      <guid>https://entrpix.me/tags/web-development/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>webproxy</title>
+      <link>https://entrpix.me/tags/webproxy/</link>
+      <pubDate>Fri, 10 May 2024 10:29:30 +0000</pubDate>
+      
+      <guid>https://entrpix.me/tags/webproxy/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
